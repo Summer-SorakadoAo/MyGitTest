@@ -7,6 +7,6 @@ public class MyGit {
 	}
 	
 	public void get() {
-		System.out.println("123456");
+		System.out.println("123456------");
 	}
 }
